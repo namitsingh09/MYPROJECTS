@@ -1,0 +1,14 @@
+.fdd {
+    padding: 0px;
+    margin-top: -6%;
+    text-align: center;
+    background-color: rgb(20, 20, 21);
+    position: relative;
+    
+    color: rgba(246, 243, 243, 0.915);
+   
+   height: 120px;
+   width: 100%;
+}
+
+

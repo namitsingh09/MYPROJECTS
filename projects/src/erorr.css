@@ -1,0 +1,30 @@
+
+.error {
+    
+    width: 100%;
+    height: 80%;
+    padding: 1px;
+    
+}
+
+#s {
+    width: 100%;
+    height: 300px;
+    z-index: -1;
+    
+}
+
+.textabove {
+    margin-top: -200px;
+    margin-left: 70%;
+    
+    display: flex;
+    flex-direction: row;
+    position:absolute;
+    font-size: larger;
+    height: 100px;
+    width: 90px;
+
+color: green;
+
+}
